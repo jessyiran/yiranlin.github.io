@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,67 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm an MA-Educational Psychology-Learning Science student from the [Department of Educational and Counselling Psychology] (https://www.mcgill.ca/edu-ecp/), [McGill University] (https://www.mcgill.ca/).My research interests include Educational Psychology in Technology Integration, AI and Teachers' Motivation.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Benallal, L., Bartolo, A. D, **Lin, Y**., Hai, T (under review). Scoping review of family-focused intervention for children and Youth with FASD. Manuscript under review.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 📝 Presentations and Posters
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Zhang, Y. Gao, J., Huang, X., **Lin, Y**., Wu, M., Li, S., Lobczowski, N. G. The effects of technology integration on secondary mathematics learning: a meta-analysis. Accepted as paper presentation at 2024 American Educational Research Association Conference.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Benallal, L., Bartolo, A. D, **Lin, Y**., Hai, T. Scoping review of family-focused intervention for children and Youth with FASD. Accepted as poster at 2024 Canadian Psychological Association.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- Graduate Excellence Fellowship - $25,000 (Merit-based)
+  
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- McGill University, Sep 2021 - May 2024; BA Major in Psychology, Minor in Educational Psychology and Sociology 	
+- McGill University, Sep 2024 - May 2026; MA(Thesis) - Educational Psychology in Learning Science				
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+WIT Edu                                                                                                                            
+
+July. 2021 – Jan. 2024; Founder                         
+- Founded Wit Edu, an online education platform, with the aim of breaking down geographical barriers and providing all children who are willing to learn with educational resources and guidance from top institutions and has since recruited more than twenty employees to help more than 50 students in different areas of the curriculum. 
+ 
+The Affiliated Brain Hospital of Nanjing Medical University (Children's Mental Health Center) 
+ 
+ Nanjing, China 
+ May. 2023 – Aug. 2023; Volunteer 											 
+- Responsible for assisting with daily hospital outpatient clinics and deeply involved in the Children’s Rehabilitation Department. This includes work on computerized psychological assessment tests for children, sensory training for children with autism, and attention training for children.
+
+Byte Dance/TIKTOK 
+
+ Shanghai, China 	
+ June. 2022 – Sep. 2022; HRBP Intern											
+- Responsible for recruiting high-level technical employees for five teams in the TikTok department.
+- Recommended more than a hundred resumes, more than 50% of the effective recommendation, and the number of offers issued ranked first among the same period of internships.
+- Proficient in using Excel, documents, and other tools to visualize weekly progress and optimize sourcing skills by reviewing reports to increase resume screening by 60%. 
+
+Liepin Oversea 
+
+  Boston, US (Remote)								
+ 	Sep. 2022 – Apr. 2023; Headhunt Intern									
+- Responsible for assisting PM in connecting with overseas companies on talent acquisition projects in a variety of fields including healthcare, technology, and apparel.
+- Work with client companies to analyze the market and talent candidate profiles through the client’s industry. Completed 5 executive recruiting projects in 6 months.
+
+Gang Xiang Mental (Remote)											
+
+ Mar. 2022 – Aug. 2022; Counsellor(psychotherapist) assistant and Hotline Volunteers			
+- Responsible for organizing the interview records of the interviewees, participating in the discussion of psychological topics.
+- Received training and was responsible for inbound counseling on the psychological hotline for more than six hours a week and answered more than 200 calls.
+
+Tencent Montreal, Canada
+ 
+ Jan. 2024 – Mar. 2024; Global Talent Acquisition Intern						
+- As a member of Tencent's International Talent Recruiting team, helped build an efficient technical recruiting framework to attract talent in new markets, and was responsible for recruiting for business groups such as CSIG, CDG, and S2 in APAC as well as North America and other countries.
+- Matchmaking with internal business, in-house HR to understand recruiting needs and strategy.
+- Analyze the local talent market and industry development through talent mapping to drive the accuracy of talent profiling on the recruiting side.
+- Participate in the recruitment process from resume screening to final interview.
+- Responsible for executive positions as well as some management positions.
+
+
+
