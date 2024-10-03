@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an MA-Educational Psychology-Learning Science student from the [Department of Educational and Counselling Psychology] (https://www.mcgill.ca/edu-ecp/), [McGill University] (https://www.mcgill.ca/).My research interests include Educational Psychology in Technology Integration, AI and Teachers' Motivation.
+
+
+I'm an MA-Educational Psychology-Learning Science student from the Department of Educational and Counselling Psychology, McGill University. My research interests include Educational Psychology in Technology Integration, AI and Teachers' Motivation.
 
 
 # 📝 Publications 
